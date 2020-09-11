@@ -1,16 +1,12 @@
-~Purpose
-tool which can be used stand-alone or supplementary to language learning
+~Purpose  
+- tool which can be used stand-alone or supplementary to language learning
 
-
-#####
 
 ~Main features
-Built with intented language English - Cantonese, Jyutping
-Question prompt, request of direct translation
+- Built with intented language English - Cantonese, Jyutping
+- Question prompt, request of direct translation
 - pre-set QA tables, allowing users to try and learn without prior knowledge
 
-
-#####
 
 ~Additional features
 - ability to save / load own QA test forms
@@ -20,15 +16,21 @@ Question prompt, request of direct translation
 - ability to swap QA - AQ
 
 ~Modes
-Standard (has endless timer)
+Standard  
 - Basic (no tones)
 - Full (with tones)
 
-Time Attack Growth (coninuous, until clear, grabs Questions from increasingly difficult tables) (timed)
-Survival Growth (continuous, until 'x' lives depleted) (as progress, grabs Questions from increasingly difficut tables)
+Time Attack Growth
+- coninuous  
+- until clear  
+- grabs Questions from increasingly difficult tables  
+- timed
 
+Survival Growth  
+- continuous  
+- until 'x' lives depleted  
+- grabs Questions from increasingly difficut tables
 
-#####
 
 ~UI
 temporary
