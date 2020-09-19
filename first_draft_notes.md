@@ -1,5 +1,5 @@
 ~Purpose  
-- tool which can be used stand-alone or supplementary to language learning
+- tool which can be used stand-alone or supplementary to language learning  
 2 versions: 1 GUI, 1 CLI
 
 ~Main features
